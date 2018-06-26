@@ -12,3 +12,5 @@ You'll need add `$HOME/.dotnet/tools` to your `.zshrc` file like:
 ```
 export PATH="$PATH:$HOME/.dotnet/tools"
 ```
+
+© 2018 copyright MIT Yoyo Young

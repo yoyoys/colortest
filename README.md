@@ -1,5 +1,7 @@
 # colortest
 
+![screenshot](https://raw.githubusercontent.com/yoyoys/colortest/master/screenshot.png)
+
 Simply install with `dotnet tool install -g colortest `   
 then run `colortest`
 

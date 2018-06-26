@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Version>1.0.1</Version>
+    <IsPackable>true</IsPackable>
+    <PackAsTool>true</PackAsTool>
+    <AssemblyName>colortest</AssemblyName>
+    <Description>A xterm-16color test tool made by dotnetcore 2.1.</Description>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/yoyoys/colortest</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
